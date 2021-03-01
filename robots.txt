@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+Allow: /*.js$
+Allow: /*.css$
+Sitemap: https://www.carloslira.ga/sitemap_index.xml
