@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Projects/slider.scss"],"names":[],"mappings":"AAEA,EACE,cAAe,CAChB,gBAGA,yBAA6B,CAC5B,YAAa","file":"8.32dea6a6.chunk.css","sourcesContent":["@import '../commun.scss';\r\n\r\ni{\r\n  cursor: pointer;\r\n}\r\n\r\n.overlay-shadow{\r\n\tbackground: rgba(0, 0, 0, .5);\r\n  padding: 20px; \r\n} "]}
